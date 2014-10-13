@@ -1,0 +1,69 @@
+\contentsline {part}{\uppercase {i}\phspace {1em}DRIKKEVISER}{3}
+\contentsline {section}{EN BAYER I H^^c5NDEN  }{4}
+\contentsline {section}{DRIKKEVISE  }{6}
+\contentsline {section}{SK^^c5L KAMMERATER  }{6}
+\contentsline {section}{LAMBO  }{7}
+\contentsline {section}{BACCHUS  }{8}
+\contentsline {section}{GAMLE VENNER  }{9}
+\contentsline {section}{GRAVERNE  }{10}
+\contentsline {section}{I SAHARASOLENS BRANN  }{12}
+\contentsline {section}{KAGGA  }{13}
+\contentsline {section}{BONDEMANNEN  }{14}
+\contentsline {section}{LYST ^^d8L:  }{15}
+\contentsline {section}{M^^d8RKT ^^d8L:  }{15}
+\contentsline {section}{^^d8L AV RETTE SLAGET  }{15}
+\contentsline {section}{^^d8L ER B^^c5DE MAT OG DRIKKE  }{16}
+\contentsline {section}{TILL MIN BRODER  }{18}
+\contentsline {section}{TENK OM JEG HADDE  }{18}
+\contentsline {section}{PENSJONARENS SUPVISA  }{18}
+\contentsline {section}{RUNDDUPP  }{19}
+\contentsline {section}{OLA NERIGARDEN  }{19}
+\contentsline {section}{SLUTTSUPEN  }{19}
+\contentsline {section}{PETTER SIN TANTA SIN KATTE  }{20}
+\contentsline {section}{UNDER BONDENS AGER  }{21}
+\contentsline {section}{SHOW ME THE WAY TO GO HOME  }{22}
+\contentsline {section}{NYVASKET H^^c5R  }{22}
+\contentsline {section}{DEN FRISKE VIND  }{23}
+\contentsline {section}{NUBBEN  }{23}
+\contentsline {section}{DRIKKELITEN  }{24}
+\contentsline {section}{SK^^c5LEVISE  }{24}
+\contentsline {section}{Hurra for deg  }{24}
+\contentsline {section}{DAMPB^^c5TEN  }{25}
+\contentsline {section}{ANNAN VIND  }{25}
+\contentsline {section}{JUOMALAULU EI-LAULAJILLE \relax \p@fontsize {12}{14.5pt}\p@selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \belowdisplayskip \abovedisplayskip \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \let \leftmargin \leftmargini \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep \topsep 9\p@ plus3\p@ minus5\p@ \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ (esitetaan seisten)  }{25}
+\contentsline {section}{UT'I NORDSJ^^d8EN  }{25}
+\contentsline {section}{THEODOR  }{26}
+\contentsline {section}{EN LITEN GYLDEN RING  }{27}
+\contentsline {section}{KORN, KORN B^^d8LGENDE KORN  }{27}
+\contentsline {section}{HJEMLENGSEL  }{28}
+\contentsline {section}{UNDULATEN  }{29}
+\contentsline {part}{\uppercase {ii}\phspace {1em}SCHL^^c4GERE}{30}
+\contentsline {section}{BAMSENS F^^d8DSELSDAG  }{31}
+\contentsline {section}{FLICKAN I HAVANNA  }{33}
+\contentsline {section}{HOVED^^d8EN  }{34}
+\contentsline {part}{\uppercase {iii}\phspace {1em}/local/song/}{35}
+\contentsline {section}{DU SKA F^^c5 EN TID I M^^c5RA  }{36}
+\contentsline {section}{BALLADEN OM KYBERNETIKKFAGET OG DETS UT^^d8VERE  }{37}
+\contentsline {section}{LEVE INFORMATIKKEN  }{39}
+\contentsline {section}{MELLOM MATTE OG FYSIKKEN  }{40}
+\contentsline {part}{\uppercase {iv}\phspace {1em}SANGER VI GJERNE SYNGER, MEN SOM VI IKKE KAN}{41}
+\contentsline {section}{DAMENE FRA MOSJ^^d8EN  }{42}
+\contentsline {section}{DANSEN P^^c5 SUNNAN^^d8  }{43}
+\contentsline {section}{DET HOLDER DET, SA GUNDERSEN  }{44}
+\contentsline {section}{GAMBRINUS - VISEN  }{46}
+\contentsline {section}{^^c4NGLAMARK  }{47}
+\contentsline {section}{THE JOTUNHEIMEN JITTERBUG  }{48}
+\contentsline {section}{KANSKJE KOMMER KONGEN  }{49}
+\contentsline {section}{KU I TUNNELEN  }{50}
+\contentsline {section}{NU KLINGER IGJENNOM DEN GAMLE STAD  }{51}
+\contentsline {section}{HVIS DINE ^^d8RER HENGER NED  }{52}
+\contentsline {section}{THE PARACHUTE JUMPER  }{53}
+\contentsline {section}{OG ALLE PROFESSORENE  }{54}
+\contentsline {section}{ROSA P^^c5 BAL  }{55}
+\contentsline {section}{S^^c5 LENGE SKUTAN KAN G^^c5  }{56}
+\contentsline {section}{V^^d8MM^^d8LSTEV  }{57}
+\contentsline {section}{VOI, VOI  }{58}
+\contentsline {section}{DEN VILLFARNE BEDUIN  }{59}
+\contentsline {section}{VALDRESVISE  }{60}
+\contentsline {section}{TILBAKE TIL LIVET  }{61}
+\contentsline {section}{SOPHUS  }{62}

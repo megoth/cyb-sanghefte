@@ -1,0 +1,691 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2011.7.22)  17 AUG 2011 15:14
+entering extended mode
+**sanghefte.doc.tex
+(./sanghefte.doc.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/latex209.def
+File: latex209.def 1998/05/13 v0.52 Standard LaTeX file
+
+
+          Entering LaTeX 2.09 COMPATIBILITY MODE
+ *************************************************************
+    !!WARNING!!    !!WARNING!!    !!WARNING!!    !!WARNING!!   
+ 
+ This mode attempts to provide an emulation of the LaTeX 2.09
+ author environment so that OLD documents can be successfully
+ processed. It should NOT be used for NEW documents!
+ 
+ New documents should use Standard LaTeX conventions and start
+ with the \documentclass command.
+ 
+ Compatibility mode is UNLIKELY TO WORK with LaTeX 2.09 style
+ files that change any internal macros, especially not with
+ those that change the FONT SELECTION or OUTPUT ROUTINES.
+ 
+ Therefore such style files MUST BE UPDATED to use
+          Current Standard LaTeX: LaTeX2e.
+ If you suspect that you may be using such a style file, which
+ is probably very, very old by now, then you should attempt to
+ get it updated by sending a copy of this error message to the
+ author of that file.
+ *************************************************************
+
+\footheight=\dimen102
+\@maxsep=\dimen103
+\@dblmaxsep=\dimen104
+\@cla=\count79
+\@clb=\count80
+\mscount=\count81
+(/usr/share/texmf/tex/latex/base/tracefnt.sty
+Package: tracefnt 1997/05/29 v3.0j Standard LaTeX package (font tracing)
+\tracingfonts=\count82
+LaTeX Info: Redefining \selectfont on input line 101.
+)
+\symbold=\mathgroup4
+\symsans=\mathgroup5
+\symtypewriter=\mathgroup6
+\symitalic=\mathgroup7
+\symsmallcaps=\mathgroup8
+\symslanted=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 293.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 294.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 295.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 301.
+LaTeX Info: Redefining \em on input line 311.
+
+(/usr/share/texmf/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 375.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 377.
+LaTeX Font Info:    Redeclaring math delimiter \bracevert on input line 379.
+
+(/usr/share/texmf/tex/latex/base/latex209.cfg
+File: latex209.cfg 2001/06/05 v1.0 teTeX customized LaTeX 2.09 compatibility mo
+de setup
+)
+(/usr/share/texmf/tex/latex/tools/rawfonts.sty
+Package: rawfonts 1994/05/08 Low-level LaTeX 2.09 font compatibility
+
+(/usr/share/texmf/tex/latex/tools/somedefs.sty
+Package: somedefs 1994/06/01 v0.03 Toolkit for optional definitions
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 44.
+
+(/usr/share/texmf/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)))
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2004/02/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size12.clo
+File: size12.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+Compatibility mode: definition of \rm ignored.
+Compatibility mode: definition of \sf ignored.
+Compatibility mode: definition of \tt ignored.
+Compatibility mode: definition of \bf ignored.
+Compatibility mode: definition of \it ignored.
+Compatibility mode: definition of \sl ignored.
+Compatibility mode: definition of \sc ignored.
+LaTeX Info: Redefining \cal on input line 506.
+LaTeX Info: Redefining \mit on input line 507.
+\bibindent=\dimen105
+)
+
+! LaTeX Error: File `fix.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: File `A4.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: File `musictex.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(/usr/share/texmf/tex/latex/tools/multicol.sty
+Package: multicol 2004/02/14 v1.6e multicolumn formatting (FMi)
+\c@tracingmulticols=\count91
+\mult@box=\box26
+\multicol@leftmargin=\dimen106
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen107
+\page@free=\dimen108
+\premulticols=\dimen109
+\postmulticols=\dimen110
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen111
+\multicolovershoot=\dimen112
+\multicolundershoot=\dimen113
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+) (./sangheftestil.tex)
+No file sanghefte.doc.aux.
+\openout1 = `sanghefte.doc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+
+Overfull \hbox (0.93932pt too wide) in paragraph at lines 14--16
+[]\OT1/cmr/m/n/12 Filene []\OT1/cmtt/m/n/12 sangheftestil.tex \OT1/cmr/m/n/12 o
+g []\OT1/cmtt/m/n/12 sangheftestildefinisjoner.tex \OT1/cmr/m/n/12 in-neholder
+ []
+
+
+Overfull \hbox (5.2002pt too wide) in paragraph at lines 18--19
+[][]\OT1/cmtt/m/n/12 \sang{} \melodi{} \noter{}{}{}{}{} \note{}{} \NOte{}{} \NO
+Te{}{}
+ []
+
+
+Overfull \hbox (91.65024pt too wide) in paragraph at lines 18--19
+\OT1/cmtt/m/n/12 \samnoteu{}{}{}{} \samnotel{}{}{}{} \sluttnoter \vers{} \spver
+s{} \sentrvers{} 
+ []
+
+Missing character: There is no ø in font cmr12!
+
+Overfull \hbox (61.91862pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/12 Sangheftestilen hetes inn i styre-filen med []\OT1/cmtt/m/n/1
+2 \input{sangheftestil} \OT1/cmr/m/n/12 fr []\OT1/cmtt/m/n/12 \begin{document}\
+OT1/cmr/m/n/12 ,
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no ø in font cmr12!
+Missing character: There is no ø in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+
+Overfull \hbox (134.01314pt too wide) in paragraph at lines 26--62
+[][] 
+ []
+
+[1
+
+{/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+
+Overfull \hbox (11.3752pt too wide) in paragraph at lines 68--69
+[][]\OT1/cmtt/m/n/12 \vers{Her kommer et vers av en sang jeg ikke kan\\ Trallla
+ la \\} 
+ []
+
+
+Overfull \hbox (60.77522pt too wide) in paragraph at lines 76--77
+[][]\OT1/cmtt/m/n/12 \spvers{Dette verset er i en spalte\\         Men det gjoe
+r ingen ting\\}
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Overfull \hbox (141.05026pt too wide) in paragraph at lines 80--81
+[][]\OT1/cmtt/m/n/12 \spvers{Dette verset er ogsaa i en spalte\\         Men de
+t gjoer heller ingen ting\\}
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+Missing character: There is no å in font cmtt12!
+
+Overfull \hbox (165.75027pt too wide) in paragraph at lines 87--88
+[][]\OT1/cmtt/m/n/12 \sentrvers{Dette verset er sentrert under \\            sp
+alteversene og tar hensyn til \\
+ []
+
+Missing character: There is no å in font cmr12!
+
+! LaTeX Error: Environment music undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 \begin{music}
+                  
+? 
+(./sangheftestildefinisjoner.tex)
+! Undefined control sequence.
+\noter ...5-> \def \nbinstruments {2} \nbporteesi 
+                                                  =0\relax \nbporteesii =1\r...
+l.99 \noter{4}{4}{4}{3}{4}
+                          
+? 
+! Undefined control sequence.
+\noter ...s {2} \nbporteesi =0\relax \nbporteesii 
+                                                  =1\relax \par \def \freqba...
+l.99 \noter{4}{4}{4}{3}{4}
+                          
+? 
+! Undefined control sequence.
+\noter ...ar \def \freqbarno {9999} \generalmeter 
+                                                  {\meterfrac {#1}{#2}} \par...
+l.99 \noter{4}{4}{4}{3}{4}
+                          
+? 
+! Undefined control sequence.
+\noter ...qbarno {9999} \generalmeter {\meterfrac 
+                                                  {#1}{#2}} \par \debutmorce...
+l.99 \noter{4}{4}{4}{3}{4}
+                          
+? 
+! Undefined control sequence.
+\noter ...\meterfrac {#1}{#2}} \par \debutmorceau 
+                                                  \autolines {#3}{#4}{100} \...
+l.99 \noter{4}{4}{4}{3}{4}
+                          
+? 
+! Undefined control sequence.
+\noter ...{#1}{#2}} \par \debutmorceau \autolines 
+                                                  {#3}{#4}{100} \normal \small 
+l.99 \noter{4}{4}{4}{3}{4}
+                          
+? 
+! Undefined control sequence.
+\noter ...orceau \autolines {#3}{#4}{100} \normal 
+                                                  \small 
+l.99 \noter{4}{4}{4}{3}{4}
+                          
+? 
+! Undefined control sequence.
+\note #1#2->\notes 
+                   #2 & #1 \enotes 
+l.100 \note{ \qu e }{Li--}
+                          
+? 
+! Misplaced alignment tab character &.
+\note #1#2->\notes #2 &
+                        #1 \enotes 
+l.100 \note{ \qu e }{Li--}
+                          
+? 
+! Undefined control sequence.
+<argument>  \qu 
+                e 
+l.100 \note{ \qu e }{Li--}
+                          
+? 
+! Undefined control sequence.
+\note #1#2->\notes #2 & #1 \enotes 
+                                   
+l.100 \note{ \qu e }{Li--}
+                          
+? 
+! Undefined control sequence.
+\note #1#2->\notes 
+                   #2 & #1 \enotes 
+l.101 \note{ \hu f }{sa}
+                        
+? 
+! Misplaced alignment tab character &.
+\note #1#2->\notes #2 &
+                        #1 \enotes 
+l.101 \note{ \hu f }{sa}
+                        
+? 
+! Undefined control sequence.
+<argument>  \hu 
+                f 
+l.101 \note{ \hu f }{sa}
+                        
+? 
+! Undefined control sequence.
+\note #1#2->\notes #2 & #1 \enotes 
+                                   
+l.101 \note{ \hu f }{sa}
+                        
+? 
+! Undefined control sequence.
+\note #1#2->\notes 
+                   #2 & #1 \enotes 
+l.102 \note{ \wh g }{gikk}
+                          
+? 
+! Misplaced alignment tab character &.
+\note #1#2->\notes #2 &
+                        #1 \enotes 
+l.102 \note{ \wh g }{gikk}
+                          
+? 
+! Undefined control sequence.
+<argument>  \wh 
+                g 
+l.102 \note{ \wh g }{gikk}
+                          
+? 
+! Undefined control sequence.
+\note #1#2->\notes #2 & #1 \enotes 
+                                   
+l.102 \note{ \wh g }{gikk}
+                          
+? 
+! Undefined control sequence.
+\note #1#2->\notes 
+                   #2 & #1 \enotes 
+l.103 \note{ \qu {^h} }{til}
+                            
+? 
+! Misplaced alignment tab character &.
+\note #1#2->\notes #2 &
+                        #1 \enotes 
+l.103 \note{ \qu {^h} }{til}
+                            
+? 
+! Undefined control sequence.
+<argument>  \qu 
+                {^h} 
+l.103 \note{ \qu {^h} }{til}
+                            
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.103 \note{ \qu {^h} }{til}
+                            
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 103.
+! Extra }, or forgotten $.
+<argument>  \qu {^h}
+                     
+l.103 \note{ \qu {^h} }{til}
+                            
+? 
+! Undefined control sequence.
+\note #1#2->\notes #2 & #1 \enotes 
+                                   
+l.103 \note{ \qu {^h} }{til}
+                            
+? 
+! Undefined control sequence.
+l.104 \barre
+            
+? 
+! Undefined control sequence.
+\NOte #1#2->\NOtes 
+                   #2 & #1 \enotes 
+l.105 \NOte{\hu i}{sko--}
+                         
+? 
+! Misplaced alignment tab character &.
+\NOte #1#2->\NOtes #2 &
+                        #1 \enotes 
+l.105 \NOte{\hu i}{sko--}
+                         
+? 
+! Undefined control sequence.
+<argument> \hu 
+               i
+l.105 \NOte{\hu i}{sko--}
+                         
+? 
+! Undefined control sequence.
+\NOte #1#2->\NOtes #2 & #1 \enotes 
+                                   
+l.105 \NOte{\hu i}{sko--}
+                         
+? 
+! Undefined control sequence.
+\NOte #1#2->\NOtes 
+                   #2 & #1 \enotes 
+l.106 \NOte{\hu i}{len}
+                       
+? 
+! Misplaced alignment tab character &.
+\NOte #1#2->\NOtes #2 &
+                        #1 \enotes 
+l.106 \NOte{\hu i}{len}
+                       
+? 
+! Undefined control sequence.
+<argument> \hu 
+               i
+l.106 \NOte{\hu i}{len}
+                       
+? 
+! Undefined control sequence.
+\NOte #1#2->\NOtes #2 & #1 \enotes 
+                                   
+l.106 \NOte{\hu i}{len}
+                       
+? 
+! Undefined control sequence.
+\NOte #1#2->\NOtes 
+                   #2 & #1 \enotes 
+l.107 \samnoteu{j}{i}{-1}{i -- den}
+                                   
+? 
+! Misplaced alignment tab character &.
+\NOte #1#2->\NOtes #2 &
+                        #1 \enotes 
+l.107 \samnoteu{j}{i}{-1}{i -- den}
+                                   
+? 
+! Undefined control sequence.
+<argument> \ibu 
+                {1}{j}{-1}\qh 1{j}\tbu {1}\qh 1{i}
+l.107 \samnoteu{j}{i}{-1}{i -- den}
+                                   
+? 
+! Undefined control sequence.
+<argument> \ibu {1}{j}{-1}\qh 
+                              1{j}\tbu {1}\qh 1{i}
+l.107 \samnoteu{j}{i}{-1}{i -- den}
+                                   
+? 
+! Undefined control sequence.
+<argument> \ibu {1}{j}{-1}\qh 1{j}\tbu 
+                                       {1}\qh 1{i}
+l.107 \samnoteu{j}{i}{-1}{i -- den}
+                                   
+? 
+! Undefined control sequence.
+<argument> \ibu {1}{j}{-1}\qh 1{j}\tbu {1}\qh 
+                                              1{i}
+l.107 \samnoteu{j}{i}{-1}{i -- den}
+                                   
+? 
+! Undefined control sequence.
+\NOte #1#2->\NOtes #2 & #1 \enotes 
+                                   
+l.107 \samnoteu{j}{i}{-1}{i -- den}
+                                   
+? 
+! Undefined control sequence.
+l.108 \barre
+            
+? 
+! Undefined control sequence.
+\NOte #1#2->\NOtes 
+                   #2 & #1 \enotes 
+l.109 \samnotel{i}{j}{1}{nye  kjo--}
+                                    
+? 
+! Misplaced alignment tab character &.
+\NOte #1#2->\NOtes #2 &
+                        #1 \enotes 
+l.109 \samnotel{i}{j}{1}{nye  kjo--}
+                                    
+? 
+! Undefined control sequence.
+<argument> \ibl 
+                {1}{i}{1}\qb 1{i}\tbl {1}\qb 1{j}
+l.109 \samnotel{i}{j}{1}{nye  kjo--}
+                                    
+? 
+! Undefined control sequence.
+<argument> \ibl {1}{i}{1}\qb 
+                             1{i}\tbl {1}\qb 1{j}
+l.109 \samnotel{i}{j}{1}{nye  kjo--}
+                                    
+? 
+! Undefined control sequence.
+<argument> \ibl {1}{i}{1}\qb 1{i}\tbl 
+                                      {1}\qb 1{j}
+l.109 \samnotel{i}{j}{1}{nye  kjo--}
+                                    
+? 
+! Undefined control sequence.
+<argument> \ibl {1}{i}{1}\qb 1{i}\tbl {1}\qb 
+                                             1{j}
+l.109 \samnotel{i}{j}{1}{nye  kjo--}
+                                    
+? 
+! Undefined control sequence.
+\NOte #1#2->\NOtes #2 & #1 \enotes 
+                                   
+l.109 \samnotel{i}{j}{1}{nye  kjo--}
+                                    
+? 
+! Undefined control sequence.
+\sluttnoter -> \finmorceau 
+                           \maxlinesinpage =0\relax 
+l.110 \sluttnoter
+                 
+? 
+! Undefined control sequence.
+\sluttnoter -> \finmorceau \maxlinesinpage 
+                                           =0\relax 
+l.110 \sluttnoter
+                 
+? 
+
+! LaTeX Error: \begin{document} ended by \end{music}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \end{music}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.111 \end{music}
+                 
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.111 \end{music}
+                 
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+
+ []
+
+
+Overfull \hbox (97.13863pt too wide) in paragraph at lines 120--121
+[]|  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+
+ []
+
+
+Overfull \hbox (97.13863pt too wide) in paragraph at lines 123--124
+[]|  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no å in font cmr12!
+[3] [4] (./sanghefte.doc.aux) ) 
+Here is how much of TeX's memory you used:
+ 660 strings out of 94500
+ 7502 string characters out of 1176766
+ 55299 words of memory out of 1000000
+ 3843 multiletter control sequences out of 10000+50000
+ 23415 words of font info for 87 fonts, out of 500000 for 2000
+ 580 hyphenation exceptions out of 1000
+ 25i,7n,22p,291b,158s stack positions out of 1500i,500n,5000p,200000b,5000s
+PDF statistics:
+ 40 PDF objects out of 300000
+ 0 named destinations out of 131072
+ 1 words of extra memory for PDF output out of 65536
+</usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.
+pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts
+/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb>
+</usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf/fonts/typ
+e1/bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmtt12.pfb></
+usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/
+bluesky/cm/cmbx12.pfb>
+Output written on sanghefte.doc.pdf (4 pages, 54727 bytes).

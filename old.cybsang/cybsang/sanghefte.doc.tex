@@ -1,0 +1,156 @@
+\documentstyle[fix,A4,musictex,multicol,12pt]{article}
+
+\input{sangheftestil}
+
+\begin{document}
+
+
+\centerline{\huge \bf Sangheftestilen}
+
+\bigskip
+
+Dette er en liten hjelp til dem som våger seg på å lage sanghefter for cyb.
+
+Filene \verb'sangheftestil.tex' og \verb'sangheftestildefinisjoner.tex' inneholder endel
+spesialkommandoer for sanghefter: 
+
+\verb.\sang{} \melodi{} \noter{}{}{}{}{} \note{}{} \NOte{}{} \NOTe{}{} 
+\samnoteu{}{}{}{} \samnotel{}{}{}{} \sluttnoter \vers{} \spvers{} \sentrvers{}.
+
+Sangheftestilen hetes inn i styrefilen med \verb.\input{sangheftestil}. før \verb.\begin{document}., og definisjonene hentes inn med \verb.\input{sangheftestildefinisjoner}. inne i \verb.\begin{music}. og \verb.\end{music}.
+ 
+
+\medskip
+\centerline{\bf \large Et lite eksempel}
+\medskip
+\begin{tabular}{ll}
+\verb.\begin{music}. & markerer starten på notene.. ligger i styrefila!\\
+\verb.\input{sangheftestildefinisjoner}. & henter definisjoner (også i styrefil!)\\
+\verb.\sang{Tittel}. &         	angir sangens tittel \\
+\verb.\melodi{Melodien}.   &   	angir sangens melodi \\
+\verb.\noter{4}{4}{4}{3}{4}. &  denne angir at notene begynner, en rekke variable \\
+  &                    	settes og notelinjene lages. 1. og 2. parameter angir\\
+  &                    	hvilken takt melodien går i, 3. og 4. parameter \\
+  &                    	angir henholdsvis hvor mange noter det er mellom\\
+  &                  	skillestrekene og hvor mange skillestreker det er \\
+       &		pr linje, den femte (skal??) angir antall linjer \\
+ & \\
+\verb.\note{ \qu e }{Li--}. &dette er en kvartnote (\verb.\qu.) e (se refcard) med teksten\\
+ &                        ``Li-'' under\\
+\verb.\note{ \hu f }{sa}. & dette er en halvnote (\verb.\hu.) f med ``sa'' under\\
+\verb.\note{ \wh g }{gikk}. & dette er en helnote (\verb.\wh.)h med  ``gikk'' under\\
+\verb.\note{ \qu {^h} }{til}. & dette er en kvartnote med \# foran...\\
+\verb.\barre .                &           	dette angir en skillestrek | \\
+\verb.\NOte{\hu i}{sko--}. & dette er en halvnote med større avstand til neste note \\
+\verb.\NOte{\hu i}{len}. & samme som forrige... \\
+\verb.\samnoteu{j}{i}{-1}{i -- den}. & disse henger sammen, 1. parameter er første note, \\
+ & 2. prarameter er andre note, \\
+ & 3. parameter er stigetallet (samme = 0) \\
+ & 4. parameter er teksten under dem.... \\
+\verb.\barre. & nok en skillestrek...\\
+\verb.\samnotel{i}{j}{1}{nye  kjo--}. & disse henger også sammen men opp ned,\\
+ &  det skyldes l'en på slutten, \\
+ &  dette gjelder også \verb.\ql. (motsatt \verb.\qu.) og \verb.\hl. (motsatt \verb.\hu.)\\
+% \verb.\barre.  & en ny skille strek..  \\
+%\note{\qu{j}}{ny--}
+%\note{\qu{j}}{e}
+%\note{\hu{i}}{kjo}
+%\note{\qu{h}}{len} 
+\verb.\sluttnoter.  &         	nå er det slutt på notene..... \\
+\verb.\end{music}.  & avslutter notene (i styrefila!) \\
+\end{tabular}
+
+\newpage
+
+Når det gjelder versene lages de på denne måten:
+\medskip
+
+\verb.\vers{Her kommer et vers av en sang jeg ikke kan\\ Trallla la \\}.
+
+\verb.\refreng{Dette er refrenget tralla lalla la\\}.
+
+\verb.\begin{multicols}{2}.
+
+\verb.\spvers{Dette verset er i en spalte\\
+        Men det gjoer ingen ting\\}
+.
+
+\verb.\spvers{Dette verset er ogsaa i en spalte\\
+        Men det gjoer heller ingen ting\\}
+.
+
+\verb.\end{multicols}.
+
+\verb.\sentrvers{Dette verset er sentrert under \\
+           spalteversene og tar hensyn til \\
+           bredden på verset}
+.
+
+\medskip 
+
+Legg merke til at \verb.\spvers{}. må forekomme inne i \verb.\begin{multicols}{2}.
+\medskip
+
+\centerline{Resultatet av eksemplet kommer her:}
+\begin{music}
+\input{sangheftestildefinisjoner}
+\sang{Tittel} 
+\melodi{Melodien}
+\noter{4}{4}{4}{3}{4}
+\note{ \qu e }{Li--} 
+\note{ \hu f }{sa} 
+\note{ \wh g }{gikk}
+\note{ \qu {^h} }{til} 
+\barre 
+\NOte{\hu i}{sko--} 
+\NOte{\hu i}{len}
+\samnoteu{j}{i}{-1}{i -- den} 
+\barre
+\samnotel{i}{j}{1}{nye  kjo--}
+\sluttnoter
+\end{music}
+
+\vers{Her kommer et vers av en sang jeg ikke kan\\ Trallla la \\}
+
+\refreng{Dette er refrenget tralla lalla la\\}
+
+\begin{multicols}{2}
+
+\spvers{Dette verset er i en spalte\\
+        Men det gjoer ingen ting\\}
+
+\spvers{Dette verset er ogsaa i en spalte\\
+        Men det gjoer heller ingen ting\\}
+
+\end{multicols}
+
+\sentrvers{Dette verset er sentrert under \\
+           spalteversene og tar hensyn til \\
+           bredden på verset.}
+
+\medskip
+
+ På området \verb.tex. finnes en del sanger, det er meningen at disse skal 
+ formateres med sangheftekommandoene som vist over....
+ eksempel på sang uten spalter ligger på \verb'tex/olatveiten.tex'
+ eksempel på sang med spalter og sentrert sistevers ligger på 
+ \verb'tex/bondemannen.tex',
+ \verb'tex/lambo.tex' viser litt flere muligheter, inklusive noter (som er gale...)
+
+% sangheftet lages ved å inkludere alle de ønskede sangene i
+% styrefila (\verb'sang.tex'), slik som eksemplene..... 
+% så kjøres latex på \verb'sang.tex'
+
+% filen \verb'eks.DVI' viser er eksempel på hvordan dette ser ut...
+
+% dette er bare en foreløpig versjon, både av sangheftestilen og
+% hjelpefila
+
+\medskip
+
+ Skrevet av Jon E. Dahlen <jonda@ifi.uio.no>
+
+
+
+
+\end{document}

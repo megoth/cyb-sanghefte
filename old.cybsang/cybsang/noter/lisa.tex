@@ -1,0 +1,69 @@
+\documentstyle[norsk,12pt,A4,isolatin,musictex,multicol]{report}
+
+\setlength{\parindent}{0cm}
+
+
+
+\newcommand{\noter}[4]{ 
+    \transpose -2
+    \def\nbinstruments{2}
+    \nbporteesi=0\relax
+    \nbporteesii=1\relax
+
+    \def\freqbarno{9999}
+    \generalmeter{\meterfrac {#1}{#2}}
+
+    \debutmorceau
+    \autolines{#3}{#4}{3}
+    \normal
+    \small
+  }
+
+
+\newcommand{\sluttnoter}{
+                    \finmorceau
+                    }
+
+
+
+
+\begin{document}
+
+
+\begin{music}
+
+\newcommand{\note}[2]{  \NOtes #2 & #1 \enotes   }
+
+\noter{4}{4}{4}{3}
+\note{\qu e}{Li--}
+\note{\qu f}{sa}
+\note{\qu g}{gikk}
+\note{\qu h}{til}
+\barre
+\note{\hu i}{sko--}
+\note{\hu i}{len}
+\note{\qu{j}}{i}
+\note{\qu{j}}{den}
+\barre
+\note{\qu{j}}{ny--}
+\note{\qu{j}}{e}
+\note{\hu{i}}{kjo}
+\note{\qu{h}}{len} 
+\sluttnoter
+
+\noter{}{}{4}{4}
+%% measure 4
+\note{\qu{h} \qu{h} \qu{h} \hu g}{}
+\barre
+\note{\hu g \qu{f f f}}{}
+\barre
+\note{\qu f \hu e \qu f \hu e}{}
+\barre
+\note{\qu f \hu e \qu f \zhu e}{}
+\sluttnoter
+
+
+
+\end{music}
+
+\end{document}

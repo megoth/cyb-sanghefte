@@ -1,0 +1,40 @@
+\documentstyle[A4,11pt,musictex,musictrp]{report}
+
+\begin{document}
+\Large\centerline{Lisa gikk til skolen}\bigskip
+
+\begin{music}
+\transpose -2
+\parindent 1cm
+\def\nbinstruments{1}
+\def\instrumenti{Piano}
+\nbporteesi=2\relax
+\generalmeter{\meterfrac 44}
+\debutextrait
+\normal
+\advance\barno by -1\relax
+
+%% measure 1
+\temps\Notes|\qu{efgh}\enotes
+\barre
+%% measure 2
+\temps\Notes|\hu{ii}\qu{jj}\enotes
+\barre
+%% measure 3
+\temps\Notes|\qu{jj}\hu{i}\qu h\enotes
+\barre
+%% measure 4
+\temps\Notes|\qu{hhh}\hu g\enotes
+\barre
+%% measure 5
+\temps\Notes|\hu g\qu{fff}\enotes
+\barre
+%% measure 6
+\temps\Notes|\qu f\hu e\enotes
+
+\finextrait
+\end{music}
+
+\small
+\input{/home/surt/b/nenadc/Div/Humor/various_quotes.txt}
+\end{document}

@@ -1,0 +1,74 @@
+
+% Dette er en liten hjelp til dem som v}ger seg p} } lage sanghefter for cyb.
+
+
+% Filen sang.tex er sangheftenes styrefil, den inneholder endel
+% spesialkommandoer for sanghefter:
+
+
+\sang{tittel}   	%angir sangens tittel
+
+\melodi{melodien} 	%angir sangens melodi
+
+
+
+\noter{4}{4}{4}{3}	%denne angir at notene begynner, en rekke variable                              settes og notelinjene lages. 1. og 2. parameter angir                          hvilken takt (?) sangen g}r i, 3. og 4. parameter                              angir henholdsvis hvor mange noter det er mellom                               skillestrekene og hvor mange skillestreker det er                              pr linje
+\note{\qu e}{Li--}	%dette er en kvartnote e (se refcard) med teksten                               'Li-' under
+\note{\qu f}{sa}
+\note{\qu g}{gikk}
+\note{\qu h}{til}
+\barre			%dette angir en skillestrek |
+\note{\hu i}{sko--}	%dette er en halvnote med 'sko-' under seg....
+\note{\hu i}{len}
+\note{\qu{j}}{i}
+\note{\qu{j}}{den}
+\barre
+\note{\qu{j}}{ny--}
+\note{\qu{j}}{e}
+\note{\hu{i}}{kjo}
+\note{\qu{h}}{len} 
+\sluttnoter		%n} er det slutt p} notene.....
+
+
+\vers{Her kommer et vers\\ av en sang jeg ikke kan\\ Trallla la \\}
+
+\refreng{Dette er refrenget \\ tralla lalla la\\}
+
+
+
+\begin{multicolumns}{2}
+
+\spvers{Dette verset er i en spalte\\
+        Men det gjoer ingen ting\\}
+
+\spvers{Dette verset er ogsaa i en spalte\\
+        Men det gjoer heller ingen ting\\}
+
+\end{multicolumns}
+
+
+\sentrvers{Dette verset er sentrert under \\
+           spalteversene og tar hensyn til \\
+           bredden paa verset.}
+
+
+% P} omr}det tex finnes en del sanger, det er meningen at disse skal 
+% formateres med sangheftekommandoene som vist over....
+% eksempel p} sang uten spalter ligger p} tex/olatveiten.tex
+% eksempel p} sang med spalter og sentrert sistevers ligger p} 
+% tex/bondemannen.tex
+% tex/lambo.tex viser litt flere muligheter, inklusive noter (som er gale...)
+
+% sangheftet lages ved } inkludere alle de |nskede sangene i
+% styrefila, slik som eksemplene..... s} kj|res latex p} sang.tex
+
+% filen eks.DVI viser er eksempel p} hvordan dette ser ut...
+
+
+
+% dette er bare en forel|pig versjon, b}de av sangheftestilen og
+% hjelpefila
+
+% Skrevet av Jon E. Dahlen <jonda@ifi.uio.no>
+
+

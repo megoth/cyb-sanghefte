@@ -1,0 +1,41 @@
+begin
+  ref(outfile) utfil;
+  ref(infile) innfil; 
+  text filnavn;
+  outtext("gi filnavn ] lese fra (uten .txt) >");
+  breakoutimage;
+  inimage;
+  filnavn :- intext(70).strip;
+  while filnavn =/= notext do
+  begin
+  innfil:-new infile(filnavn&".txt");
+
+%  outtext("gi filnavn ] skrive til (husk .tex) >");
+%  breakoutimage;
+%  inimage;
+
+  utfil:-new outfile(filnavn&".tex");
+  
+  innfil.open(blanks(80));
+  utfil.open(blanks(80));        
+  innfil.inimage;
+  while not innfil.endfile do
+  begin
+     text sanglinje;
+     sanglinje:-innfil.intext(80).strip;
+     utfil.outtext(sanglinje);
+     utfil.outtext(" \\");
+     utfil.outimage;
+     innfil.inimage;
+  end;
+  innfil.close;
+  utfil.close;
+
+  outtext("gi filnavn ] lese fra (uten .txt) >");
+  breakoutimage;
+  inimage;
+  filnavn :- intext(70).strip;
+
+  end while;
+
+end;

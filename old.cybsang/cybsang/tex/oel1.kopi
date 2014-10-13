@@ -1,0 +1,104 @@
+\sang{LYST ØL:}
+\melodi{Lille Lotte er så pen}
+\noter{2}{4}{4}{2}{6}
+\note{\cu h }{Du}
+\note{\cu h }{som}
+\note{\cu {^f} }{i}
+\note{\cu d }{ditt}
+\barre
+\note{\cl i }{hjer --}
+\note{\cl i }{tes}
+\note{\qu h }{brønn}
+\barre
+\note{\cl k }{ff}
+\note{\cu h }{hun}
+\note{\cu g }{går}
+\note{\cu {^f} }{til}
+\barre
+\note{\qu e }{sko --}
+\note{\qu d }{len.}
+\rightrepeatsymbol\barre
+\note{\cu{^f}}{Hun}
+\note{\cu g }{kan}
+\note{\cu h }{si}
+\note{\cu h }{så}
+\barre
+\note{\cu e }{pent}
+\note{\cu{^f}}{``God --}
+\note{\qu g }{dag'',}
+\barre
+\note{\cu{^f}}{nei --}
+\note{\cu g }{e}
+\note{\cu h }{det}
+\note{\cu h }{er}
+\barre
+\note{\cu e }{in --}
+\note{\cu{^f}}{gen}
+\note{\qu g }{sak.}
+\barre
+\note{\cu h }{Så}
+\note{\cu h }{gjør}
+\note{\cl i }{lil --}
+\note{\cl {^j}}{le}
+\barre
+\note{\ql k }{Lot --}
+\note{\qu {^f}}{te,}
+\barre
+\note{\cu h }{så}
+\note{\cu h }{gjør}
+\note{\cu g }{lil --}
+\note{\cu {^c}}{le}
+\barre
+\note{\qu e }{Lot --}
+\note{\qu d}{te,}
+\sluttnoter
+
+
+
+
+
+
+
+
+
+%\begin{multicols}{2}
+\vers{
+Du som i ditt hjertes brønn \\
+bærer junisolen. \\
+Vel i glasset er du skjønn \\
+som i brudekjolen. \\
+Perleglans og ferskenhud \\
+har min skjære sommerbrud. \\
+Styrte meg jeg ville \\
+i din dype kilde. \\
+}% \\
+\sang{MØRKT ØL:}
+\melodi{Lille Lotte er så pen}
+\vers{
+Sydens varme, dype glød \\
+har hun i sitt øye. \\
+Visdom har hun i sitt skjød \\
+etter dagens møye. \\
+Hulde brud av fremmed blod \\
+byr meg av sin overflod. \\
+Tro - det er hun ikke. - \\
+Men hun lar meg drikke. \\
+}% \\
+\sang{ØL AV RETTE SLAGET}
+\melodi{Kjerringa med staven}
+\begin{multicols}{2}
+\spvers{
+Øl av rette slaget \\
+har vi nå fått laget: \\
+Åtte potter sol og fire merker dugg, \\
+bølgeskum på toppen, fine, lette fnugg \\
+- øl av rette slaget. \\
+}% \\
+\spvers{
+Ølet vårt er herlig, \\
+drikk det pent og kjærlig! \\
+Åtte potter helse, fire merker smil, \\
+den som har vært tørst er aldri mer i tvil: \\
+Ølet vårt er herlig. \\
+}%\\
+\end{multicols}

@@ -1,0 +1,92 @@
+\documentstyle[norsk,12pt,A4,isolatin,musictex,multicol]{report}
+
+
+\newcommand{\sang}[1]{ \vspace*{8mm} \begin{center} \LARGE \bf #1 \end{center} 
+                       \vspace*{6mm}}
+
+\newcommand{\melodi}[1]{ \begin{center} \small \it {\bf Melodi:} #1 
+                         \end{center}
+                         \vspace*{6mm} }
+
+\newcommand{\vers}[1]{ \begin{center} \parbox{10cm}{#1} \end{center} }
+
+\newcommand{\refreng}[1]{ 
+  \begin{center} 
+    \parbox{10cm}{
+      \begin{list}{\it \bf Refreng:}
+        {\setlength{\leftmargin}{1.9cm} 
+          \setlength{\labelwidth}{3.2cm}} 
+      \item  #1 
+      \end{list} 
+      }
+  \end{center} 
+  }
+
+\newcommand{\spvers}[1]{ \parbox{9cm}{#1} }
+
+\newcommand{\sentrvers}[1]
+{ 
+  \begin{center} 
+    \begin{tabular}{l}
+      #1
+    \end{tabular}
+  \end{center}
+  }
+
+
+\newcommand{\noter}[4]{ 
+    \transpose -2
+    \def\nbinstruments{2}
+    \nbporteesi=0\relax
+    \nbporteesii=1\relax
+
+    \def\freqbarno{9999}
+    \generalmeter{\meterfrac {#1}{#2}}
+
+    \debutmorceau
+    \autolines{#3}{#4}{3}
+    \normal
+    \small
+  }
+
+
+\newcommand{\sluttnoter}{
+                    \finmorceau
+                    }
+
+
+\setlength{\parindent}{0cm}
+
+\setlength{\rightmargin}{\leftmargin}
+
+\setlength{\topsep}{0cm}
+
+\setlength{\partopsep}{0cm}
+
+\begin{document}
+
+\begin{music}
+\newcommand{\note}[2]{  \NOtes #2 & #1 \enotes   }
+
+
+
+
+
+
+
+%\include{tex/lambo}
+
+
+%\include{tex/aenglamark}
+%\include{tex/baccus}
+\include{tex/balladenomkybernetikken.tex}
+%\include{tex/bondemannen}
+
+
+
+
+\end{music}
+
+\end{document}
+
+
